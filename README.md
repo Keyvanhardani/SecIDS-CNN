@@ -173,3 +173,12 @@ This compatibility ensures flexibility for various applications in automotive an
   year = {2023},
   note = {Available under CC BY-NC 4.0}
 }
+
+@misc {keyvan_hardani_2024,
+	author       = { {Keyvan Hardani} },
+	title        = { SecIDS-CNN (Revision 5daf4a4) },
+	year         = 2024,
+	url          = { https://huggingface.co/Keyven/SecIDS-CNN },
+	doi          = { 10.57967/hf/3351 },
+	publisher    = { Hugging Face }
+}
