@@ -14,7 +14,7 @@ SecIDS-CNN is a high-performance Convolutional Neural Network (CNN) model develo
 ### Model Sources
 
 - **Repository:** https://huggingface.co/Keyven/SecIDS-CNN
-For access to the SecIDS-CNN model, visit [our Hugging Face page](https://huggingface.co/Keyven/SecIDS-CNN) and request access.
+### For access to the SecIDS-CNN model, visit [our Hugging Face page](https://huggingface.co/Keyven/SecIDS-CNN) and request access.
 
 
 ## Uses
